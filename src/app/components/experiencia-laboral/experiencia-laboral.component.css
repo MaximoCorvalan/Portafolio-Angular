@@ -1,0 +1,31 @@
+#multiplex{
+    margin-left: 15px;
+}
+#tecnoset{
+    margin-left: 15px; 
+}
+#conteiner{
+    margin-top: 0px;
+    background-color: rgb(252, 252, 252);
+    padding-bottom: 20px;
+    
+}
+.linea{
+    opacity:100 ;
+    margin-top: 50px;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+#contenedorbtn{
+    position: absolute;
+    margin-left: 32cm;
+    margin-top: 10px;
+    
+}
+#boton{
+    position: relative;
+    border: none;
+    background-color: rgb(252, 252, 252) ;
+
+ 
+}

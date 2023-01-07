@@ -1,0 +1,37 @@
+<div class="modal fade" id="proyecto" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Proyecto</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+            <div id="proyecto">
+                <form [formGroup]="form">
+                <div class="form-group">
+                  <label for="exampleInputEmail1">información  del nuevo proyecto</label>
+                  <input type="text" formControlName="nuevonombre" class="form-control" id="Nuevo nombre" aria-describedby="emailHelp" placeholder=" Inserte nuevo nombre">
+                  <br>
+                  <input type="text" formControlName="nuevadescripcion" class="form-control" id="Nueva descripción" aria-describedby="emailHelp" placeholder=" Inserte nueva  descripción">
+                  <br>
+                  <input type="text" formControlName="nuevolink" class="form-control"  id="linkpage" aria-describedby="emailHelp" placeholder="Inserte nuevo Link">
+                  <br>
+                  <input type="date" formControlName="inicio" class="form-control" id="tiempo" aria-describedby="emailHelp" placeholder="Tiempo "> <br>Hasta <input type="date" formControlName="fin" class="form-control" id="tiempo" aria-describedby="emailHelp" placeholder="Tiempo del proyecto ">
+                </div>
+                <br>
+                
+                <button type="submit" class="btn btn-danger">Guardar Cambios</button>
+              </form>
+              </div>
+              
+       
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-dark" data-dismiss="modal">Cerrar</button>
+         
+        </div>
+      </div>
+    </div>
+  </div>

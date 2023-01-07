@@ -1,0 +1,21 @@
+.texto{
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.nombre{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+#boton{
+    position: relative;
+    border: none;
+    background-color:rgb(176, 164, 185)
+}
+#contenedorbtn{
+    position: absolute;
+    margin-left: 32cm;
+    margin-top: 40px;
+    
+}

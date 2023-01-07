@@ -1,0 +1,90 @@
+{
+    "Nombre":"Maximo",
+    "Apellido":"Corvalan",
+    "Edad":"18",
+    "Acercademi":"Hola, me llamo Maximo Corvalan, tengo 18 años. Actualmente vivo en la Ciudad de Buenos Aires y estoy haciendo el cbc de medicina y a la par  un curso de programacion en ArgentinaPrograma. Mis hobbies favoritos son hacer deporte, y pasar tiempo con mi familias y amigos",
+
+    "ExperienciasLaborales": [
+
+    {
+        "Experiencia":"Experiencias Laborales :",
+        "id":1,
+        "lugar":"Cines Multiplex",
+        "puesto":" Puesto: Acomodador",
+        "DescripciondeActividades": " Descripcion de Actividades: Ayudar a las personas a encontrar sus respectivos ascientos para poder mantener cierto orden y que puedan disfrutar la pelicula.",
+        "Tiempo":"Tiempo: Febrero-2022 a Agosto-2022"
+
+
+    },
+    {
+        "id":2,
+        "lugar":"  TecnoSet (SERVICIO ESPECIALIZADO TECNOLOGICO)",
+        "puesto":" Puesto: Vendedor y manejo de redes sociales",
+        "DescripciondeActividades": " Descripcion de Actividades: vendía sus productos, a la par que respodia dudas del usuario ,via Facebook.",
+        "Tiempo":" Tiempo: Mayo-2021 a Julio-2022"
+
+
+    }
+
+    ],
+
+    "Educacion": [
+
+        {
+            "Educacion":"Educación",
+            "id":1,
+            "instituto":" Instituto: Atletico Ataliva Blanco",
+            "TipodeEducacion":"Titulo: Secundario Orientacion deportiva",
+            "Estado":"Estado: Finalizado",
+            "Ano":" Año: 2015-2021"
+        },
+        {
+            "id":2,
+            "instituto":"Instituto: INFA",
+            "TipodeEducacion":"Titulo: Curso- Primeros auxilios",
+            "Estado":" Estado: Finalizado",
+            "Ano":"Año: Agosto 2021"
+        },
+        {
+            "id":3,
+            "instituto":"Instituto: Universidad De Buenos Aires",
+            "TipodeEducacion":"Titulo: Preingreso a la carrera de medicina ",
+            "Estado":"transcurso",
+            "Ano":"Año:2022 "
+
+
+        }
+
+
+    
+    ],
+        "idiomas":"idiomas",
+        "ingles":"Ingles: B-3",
+        "Español":"Español: Nativo",
+
+    "imagendeperfil":"assets/img/perfil.jpeg",
+    "progressbarJS":"50% JAVASCRIPT",
+    "progressbarCSS":"75% CSS",
+    "progressbarHTML":"80% HTML",
+    "progressbarTYPE":"50% TYPESCRIPT",
+    "skills":"SKILLS",
+
+    "ArgAp":"assets/img/ap.jpg",
+    "logoig":"assets/img/ig.jpg",
+    "logogmail":"assets/img/linkedin-logo.png",
+    "logoWsp":"assets/img/wsp.png",
+
+    "Proyectos":"PROYECTOS",
+    "Nombrep":"Portafolio(Argentina Programa)",
+    "Descripcion":"Descripcion: Participe en el desarrollo de un Portafolio Web, cuando realicé un curso llamado  Argentina Programa brindado por el Estado en este se veían los temas principales para poder desarrollarte como Programador Full Stack Developer Jr.",
+    "Link":"Link Github: ",
+    "Fechaderealizacion":"Fecha de realización: Junio-2022 a Enero-2023"
+
+    
+    
+
+    
+    
+       
+
+}

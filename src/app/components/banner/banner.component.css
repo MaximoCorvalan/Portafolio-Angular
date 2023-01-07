@@ -1,0 +1,19 @@
+.imagenPsytexto{
+ 
+    position: relative;
+     margin-top: 0px;
+     background-image: url(https://p1.pxfuel.com/preview/785/21/68/landscape-mountain-sunrise-early-winter-shirakami-sanchi-iwaki-mountain-vista.jpg);
+     background-size: cover;
+      background-repeat: no-repeat;
+      margin-bottom: 0px;
+      padding: 200px;
+      margin-left: 0px;
+      margin-right: 0px;
+      
+    
+    }
+    #imagendeperfil{
+      position: relative;
+      margin-top: -8rem;
+
+    }

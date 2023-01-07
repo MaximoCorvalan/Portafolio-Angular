@@ -1,0 +1,39 @@
+#logoig{
+    
+    margin-left: 650px;
+    margin-right: 10px;
+   
+}
+
+#login{
+    margin: 0px;
+    margin-right: 0px;
+}
+
+#logogmail{
+    
+    margin: 0px;
+    margin-right: 0px;
+    
+    
+}
+#logowsp{
+
+    height:57px ;
+    width: 60px;
+    border-radius: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+#logoAp{
+    height: 80px;
+    width: 150px;
+}
+#boton{
+    border: none;
+    background-color:  rgb(250, 246, 246); ;
+}
+#log-out{
+    position: relative;
+}
